@@ -22,15 +22,6 @@ I’m Briana Vinson, a design student at Eastern Washington University with a pa
 
 
 
-## Stats
-
-
-[![cats](https://img.itch.zone/aW1nLzExODgyNjI3LmdpZg==/original/3pJs1m.gif)](https://codepen.io/Rune160/pen/vEYepwp)
-
-![Briana's's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvinson22&theme=radical&show_icons=true) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvinson22&theme=radical&show_icons=true)](https://git.io/streak-stats)
-
 
 
 ## 
@@ -46,6 +37,15 @@ I’m Briana Vinson, a design student at Eastern Washington University with a pa
 🧠 I'm currently learning how to set up a github read me profile
 
 
+
+## Stats
+
+
+[![cats](https://img.itch.zone/aW1nLzExODgyNjI3LmdpZg==/original/3pJs1m.gif)](https://codepen.io/Rune160/pen/vEYepwp)
+
+![Briana's's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvinson22&theme=radical&show_icons=true) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvinson22&theme=radical&show_icons=true)](https://git.io/streak-stats)
 
 💬 Ask me about anything!
 
