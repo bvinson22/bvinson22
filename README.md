@@ -2,7 +2,7 @@
 
 # Hi, I'm Briana! 
 
-![Cool GIF](https://i.pinimg.com/originals/1f/68/3f/1f683f235c40e703273f5c0a340c613f.gif)
+
 ##  About Me
 I’m Briana Vinson, a design student at Eastern Washington University with a passion for creativity and innovation. I’m currently pursuing a degree in design, and I love blending artistic expression with functional solutions. In my free time, I enjoy immersing myself in video games, drawing inspiration from their immersive worlds and intricate designs. Always eager to explore new creative avenues, I’m committed to honing my skills and bringing fresh, imaginative ideas to life.
 
